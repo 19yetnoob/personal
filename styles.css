@@ -1,0 +1,103 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:  merriweather ,serif;                                              /*align elements in centre of website*/
+}
+
+h1{
+  margin: 0;
+  padding: 30px;
+  font-family:Montserrat,sans-serif ;
+  font-size: 3rem;
+  color: #66BFBF;
+}
+.intro{
+  margin: 0;
+  font-family: Montserrat,sans-serif;
+  font-size: 2em;
+  color: #66BFBF;
+}
+h3
+{
+  color: #11999E;
+}
+a{
+  color:red;
+}
+.top-container
+{
+  padding: 40px;
+  background-color: #eff8ff;
+}
+.r
+{
+  text-decoration: underline;
+}
+.bottom-cloud
+{
+  position: absolute;      /* I USED absolute NOT RELATIVE BECAUSE IT DOES NOT LEAVES EMPTY SPACE BUT ABSOLUTE DOES*/
+
+  }
+  .top-cloud
+  {
+    position: relative;
+left:250px;
+  }
+.challenge
+{
+  line-height: 1.4;
+}
+.skills{
+text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.skill-row1
+  {margin: 20px;
+
+  }
+  .skill-row2
+    {
+      margin: 20px;
+
+    }
+    .test1
+    {
+      border-style: dotted none none;
+    border-color: grey;
+    height: 5px;
+    border-width: 4px;
+    width: 20%;
+    }
+
+
+
+
+.sakal
+{
+  width:15%;
+}
+.image-correction1
+{
+  width:20%;
+  float:left;     /*to put text on side of the image*/
+margin-left: 30px;
+padding: 20px;
+}
+.image-correction2
+{
+  width:20%;
+  margin-left: 30px;
+  padding: 20px;
+  float:right;         /*to put text on side of the image*/
+
+}
+.bottom-container
+{
+  margin-top: 5px;
+  background-color: #66bfbf;
+}
+.linkedin
+{
+  width : 5%;
+}
